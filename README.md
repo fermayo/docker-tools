@@ -7,3 +7,4 @@ Currently available:
 * `fermayo/glide` - [Package Management for Go](https://glide.sh/)
 * `fermayo/govendor` - [Go vendor tool that works with the standard vendor file](https://github.com/kardianos/govendor)
 * `fermayo/make` - [Make is a build automation tool](https://www.gnu.org/software/make/)
+* `fermayo/build-essential`
