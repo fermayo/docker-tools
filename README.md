@@ -9,3 +9,4 @@ Currently available:
 * `fermayo/make` - [Make is a build automation tool](https://www.gnu.org/software/make/)
 * `fermayo/build-essential` [Build tools](http://packages.ubuntu.com/xenial/build-essential)
 * `fermayo/socat` - [Multipurpose relay (SOcket CAT)](http://www.dest-unreach.org/socat/)
+* `fermayo/awscli` - [AWS CLI](https://aws.amazon.com/cli/)
