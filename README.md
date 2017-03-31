@@ -10,3 +10,4 @@ Currently available:
 * `fermayo/build-essential` [Build tools](http://packages.ubuntu.com/xenial/build-essential)
 * `fermayo/socat` - [Multipurpose relay (SOcket CAT)](http://www.dest-unreach.org/socat/)
 * `fermayo/awscli` - [AWS CLI](https://aws.amazon.com/cli/)
+* `fermayo/curl` - [A command line tool and library for transferring data with URLs](https://curl.haxx.se/)
