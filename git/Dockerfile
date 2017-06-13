@@ -1,3 +1,3 @@
 FROM alpine:latest
-RUN apk --update add git
+RUN apk --no-cache add git
 CMD ["git"]
